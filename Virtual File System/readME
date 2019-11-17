@@ -1,1 +1,9 @@
+Project Name : Virtual File System
 
+Technology :   C Programming
+
+Description :  -The VFS provides all the functionality to the user which is same as the UNIX based file system.
+               -It provides all necessary commands ad system calls implementations of file system through customized shell.
+               -In this project all necessary data structures of file subsystems as Inode, Incore, Inode table, File table,
+                User file Description are implementated.
+                
