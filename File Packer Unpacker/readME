@@ -1,1 +1,10 @@
+Project Name : File Packer Unpacker
+
+Technologies : C Programming
+
+Platform :     Windows / Linux
+
+Description : -This tool is used to pack all files from one specified directory.
+              -while packing we perform encryption & compression.
+              -When we unpack we get all separated file with decryption.
 
