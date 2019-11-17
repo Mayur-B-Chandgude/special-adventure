@@ -1,1 +1,9 @@
+Project Name : Process Monitoring Toll
 
+Technology :   Windows Programming using C(WIN32 SDK)
+
+Description :  -This project is used to retrieve all internal information of running process on Windows platform.
+               -In this project I maintain one log file which contains information of process as, Process Name, PID, DLL`s
+                attached by the process, Size of Process, Threads created by the process etc.
+               -This project can be used to take periodic log of running processes for analytical purpose. 
+               
