@@ -1,1 +1,11 @@
+PE File Explorer : Portable Executable File Explorer
 
+Technology : Windows Programming using C (WIN32 SDK) 
+
+Description :
+            -Portable Executable is an executable file format on windows operating system which contains all necessary
+            information about the executable file in structured format.
+            -By using this porject we can retrive multiple tablws from executable file as DOS header, optional header,
+            Export table, import table etc.
+            -According to the user requirement we display information about that executable file in simple format.
+            
