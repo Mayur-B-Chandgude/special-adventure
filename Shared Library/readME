@@ -1,1 +1,6 @@
-
+Technology : C++
+Description :
+            -In many programming languages there is internal support for all data structures functionality.
+            -In this project we provide almost every functionality required to handle all necesaary data structures in library format.
+            -In case of static library there ia an memory issue & to avoid it we developed the library as Shared Object(.SO).
+            -We can use this library in any C/C++ applications on Linux Platform.
